@@ -1,0 +1,25 @@
+.foods{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+
+}
+.todos{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.places{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.films{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
