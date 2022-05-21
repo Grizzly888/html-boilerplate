@@ -1,25 +1,48 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
 .foods{
+    color: #fff;
     display:flex;
     flex-direction:column;
     justify-content:center;
     align-items:center;
-
+    background-color:#487F63;
+    border-radius:20px;
+    width:50%;
+    margin:0 auto;
+    margin-bottom: 20px;
 }
 .todos{
     display:flex;
     flex-direction:column;
     justify-content:center;
     align-items:center;
+    background-color: #F0b86c;
+    border-radius:20px;
+    width:50%;
+    margin:0 auto;
+    margin-bottom: 20px;
 }
 .places{
+    color:white;
     display:flex;
     flex-direction:column;
     justify-content:center;
     align-items:center;
+    background-color:#1a2e39;
+    border-radius:20px;
+    width:50%;
+    margin:0 auto;
+    margin-bottom: 20px;
 }
 .films{
     display:flex;
     flex-direction:column;
     justify-content:center;
     align-items:center;
+    background-color:#fdf9f0;
+    border-radius:20px;
+    width:50%;
+    margin:0 auto;
 }
