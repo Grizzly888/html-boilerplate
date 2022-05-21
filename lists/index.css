@@ -46,3 +46,10 @@ body{
     width:50%;
     margin:0 auto;
 }
+.back{
+    position:absolute;
+    top: 5%;
+    left:5%;
+    font-size:30px;
+    text-decoration: none;
+}
